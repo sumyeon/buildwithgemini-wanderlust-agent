@@ -1,0 +1,2 @@
+[console_scripts]
+pyink = pyink:patched_main
